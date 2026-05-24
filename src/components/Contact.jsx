@@ -29,8 +29,8 @@ function Contact() {
       <div className="contact-wrap">
         <div className="contact-left">
           <h2>Mulai Kolaborasi</h2>
-          <div className="contact-info-item">info@workshop-andalan.com</div>
-          <div className="contact-info-item">Jakarta Technology Hub</div>
+          <div className="contact-info-item">workshop.andalan@gmail.com</div>
+          <div className="contact-info-item">Banten Technology Hub</div>
           {submitted && (
             <div style={{
               marginTop: '1.5rem',
