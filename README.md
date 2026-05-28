@@ -1,4 +1,4 @@
-# 🛠️ Workshop Andalan - Website Replika
+# 🛠️ Workshop Andalan - Website 
 
 Website replika dari **Workshop Andalan** (workshopandalan.wixsite.com) yang dibangun menggunakan **React JS**.
 
